@@ -1,0 +1,13 @@
+{
+  "itemGroup.aloof": "Example Mod Tab",
+  "block.aloof.example_block": "Example Block",
+  "item.aloof.example_item": "Example Item",
+
+  "aloof.configuration.title": "Aloof Configs",
+  "aloof.configuration.section.aloof.common.toml": "Aloof Configs",
+  "aloof.configuration.section.aloof.common.toml.title": "Aloof Configs",
+  "aloof.configuration.items": "Item List",
+  "aloof.configuration.logDirtBlock": "Log Dirt Block",
+  "aloof.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aloof.configuration.magicNumber": "Magic Number"
+}
